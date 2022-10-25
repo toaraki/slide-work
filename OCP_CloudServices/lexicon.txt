@@ -1,0 +1,16 @@
+CI/CD	シーアイシーディ
+Cluster	クラスター
+IaaS	イァース
+IDE	アイディーイー
+Kubernetes	クバネティス
+OMPP	オーエムピーピー
+OpenShift	オープンシフト
+Open	オープン
+Operator	オペレータ
+OS	オーエス
+RHEL	レル
+SLA	エスエルエー
+SRE	エスアールイー
+Web	ウェブ
+# word	pronunciation
+数十分	すうじゅっぷん

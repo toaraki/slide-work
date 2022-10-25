@@ -1,0 +1,4 @@
+The talk scripts of this page are as follows:
+
+レッドハットとパートナー企業が提供する、
+OpenShiftのマネージドサービスのコンセプトをご紹介します。
